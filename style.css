@@ -1,3 +1,4 @@
+/*Interface */
 /* Global Styles */
 body {
     font-family: 'Arial', sans-serif;
@@ -7,18 +8,18 @@ body {
     color: #333;
 }
 
-/* Container */
+/* Container Design*/
 .main-container {
     max-width: 900px;
     margin: 30px auto;
     padding: 25px;
     background: #ffffff;
-    border-radius: 15px;
+    border-radius: 15px; /*Rounded corner*/
     border: 2px solid #ff7f50; /* Adding a border */
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
 }
 
-/* Header */
+/* Header Design*/
 header .hero {
     text-align: center;
     padding: 20px 0;
@@ -146,7 +147,7 @@ header p {
     font-weight: bold;
 }
 
-/* Footer */
+/* Footer Design */
 footer {
     text-align: center;
     margin-top: 25px;
